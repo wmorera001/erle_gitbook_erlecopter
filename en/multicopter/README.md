@@ -1,5 +1,4 @@
 # MultiCopter
-http://copter.ardupilot.com/wiki/introduction/what-you-need/
 ###What is a MultiCopter and How Does it Work
 
 A multicopter is a mechanically simple aerial vehicle whose motion is controlled by speeding or slowing multiple downward thrusting motor/propeller units.

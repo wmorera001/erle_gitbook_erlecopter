@@ -1,7 +1,7 @@
 
 #Erle-Copter Gitbook
 
-**[![Build Status] ENLACE a estado de compilación del libro**
+[![Build Status](https://www.gitbook.io/button/status/book/erlerobotics/erle-robotics-erle-copter)](https://www.gitbook.io/book/erlerobotics/erle-robotics-erle-copter/activity)
 
 ##Book
 
@@ -27,6 +27,6 @@ Unless specified, this content is licensed under the Creative Commons Attributio
 
 ![license](http://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
 
-All derivative works are to be attributed to *Erle Robotics S.L.*. For a list of authors refer to [erle_gitbook/graphs/contributors](https://github.com/erlerobot/erle_gitbook/graphs/contributors).
+All derivative works are to be attributed to *Erle Robotics S.L.*. For a list of authors refer to [erle_gitbook/graphs/contributors](https://github.com/erlerobot/erle_gitbook_erlecopter/graphs/contributors).
 
 For any questions, concerns, or issues submit them to support [at] erlerobot.com.
