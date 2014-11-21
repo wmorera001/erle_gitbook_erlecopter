@@ -26,7 +26,7 @@
 
 - **The APM and [erlebrain]() flight controllers we use incorporate a motor arming safety feature.**
  - Immediately prior to flight after the battery has been connected, the RC transmitters throttle stick needs to be held down and to the right for several seconds to arm the motors.
- - After landing your first response should be to hold the throttle down and to the left for several seconds to “Disarm” the motors. * Disarm condition can be tested by moving the throttle stick up, if the motors do not move it is disarmed.
+ - After landing your first response should be to hold the throttle down and to the left for several seconds to “Disarm” the motors. * Disarm condition can be tested by moving the throttle stick up, if the motors do not move it is disarmed.*
  - Even when disarmed, the throttle stick should always be kept in the full down position except when flying.
 
 - **Get used to switching back to Stabilize mode from other modes and reassuming full manual control.**
