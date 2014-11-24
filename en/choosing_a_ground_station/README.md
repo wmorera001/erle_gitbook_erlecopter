@@ -45,7 +45,7 @@ This is a "Ground Control Station for your Pocket". Its target audience is iPhon
 [Wiki](http://diydrones.com/profiles/blogs/mav-pilot-v1-0-for-iphone-is-available-in-the-app-store)
 
 #### [QGroundControl](http://www.qgroundcontrol.org/)
-This is the home of the Open Source Micro Air Vehicle Ground Control Station / Operator Control Unit. [QGroundControl](http://www.qgroundcontrol.org/) is based on PIXHAWK's Groundstation and is now developed in a joint effort with the community.
+[QGroundControl](http://www.qgroundcontrol.org/) is based on PIXHAWK's Groundstation and is now developed in a joint effort with the community.
 
 QGroundControl's main interface protocol is **MAVLink**, a binary, serial stream protocol which QGroundControl can receive over UDP or serial links (radio modems). The full protocol documentation is available at: [MAVLink Micro Air Vehicle Communication Protocol](http://www.qgroundcontrol.org/mavlink/start).
 
