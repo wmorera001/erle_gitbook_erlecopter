@@ -10,4 +10,4 @@ Cuando estés listo para llevar a cabo la calibración, pulsa *Calibrate Accel*.
 
 La Estación de control te pedirá que coloques el multicóptero es cada posición de calibración y pulses cualquier tecla para continuar. Procede a través de las posiciones requiridas.
 
-Cuando el proceso acaba, la estación de control mostrará un mensaje.
+Una vez que el proceso acaba la estación de control mostrará un mensaje.
