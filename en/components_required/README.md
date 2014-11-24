@@ -4,7 +4,7 @@
 
 #####LiPo batteries and charger
 
-Erle-Copter requires a rechargeable lithium polymer (LiPo) battery. A good rule of thumb is to use 1,000 mAH (milliamp hours) per motor. For a Quad copter, a 4,000 mAH LiPo like this one would work well. While your copter can use only one battery at a time, we recommend having at least two batteries in stock; more batteries means more flight time. You’ll also need a charging station for your batteries such as this one.
+Erle-Copter requires a rechargeable lithium polymer (LiPo) battery. A good rule of thumb is to use 1,000 mAH (milliamp hours) per motor. For a Quad copter, a 4,000 mAH LiPo like this one would work well. While your copter can use only one battery at a time, we recommend having at least two batteries in stock; more batteries means more flight time. You’ll also need a charging station for your batteries.
 
 #####Autopilot hardware with GPS module
 
