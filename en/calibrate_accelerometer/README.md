@@ -1,6 +1,6 @@
 # Calibrate accelerometer
 
-If you are using ArduCopter Code 3.0, make sure you check the AC 3.0+ box. If you are using 2.9.1b (or earlier), leave the box unchecked.  This process will require you to place your copter in the positions shown below in sequence. The level position is the most important to get right as this will be the attitude that your controller considers level while flying.
+This process will require you to place your copter in the positions shown below in sequence. The level position is the most important to get right as this will be the attitude that your controller considers level while flying.
 
 It is important not to move the copter immediately after pressing the key for each step. Check out [this video](http://vimeo.com/56224615) for an example of how to hold the copter.
 
