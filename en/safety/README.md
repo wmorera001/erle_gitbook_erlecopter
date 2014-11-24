@@ -50,7 +50,7 @@
  - Generally better to use the first one than the last one.
 - **When testing or flying any of the (waypoint) navigation modes (using GPS):**
  - Ensure that your GPS has “Lock” before arming and takeoff.
- - Check that your home position on the Mission Planner is in fact correct.
+ - Check that your home position on your Ground Station is in fact correct.
  - If the GPS does not accurately report your home position, reboot and wait for 8 or more satellites (not just 3D lock) and check again.
 - **Always follow the law:**
  - Our personal use of MultiCopters (models in general) is continually under attack by those who fear ‘drones’ and invasion of privacy.  If you break the law, or invade someone’s privacy, or put them in harm’s way, you threaten the future of our personal use of models. Please, understand the law and the rights of others – and fly accordingly.
@@ -105,7 +105,7 @@
  - The transmitter or RC setup may be incorrect.
  - A motor or ESC may not be performing properly.
  - The wrong props may be on the wrong motors.
- - When all problems are fixed it should be fairly easy to get the copter to hover a foot or 2 above the ground.
+ - When all problems are fixed it should be fairly easy to get the copter to hover a 1 or 2 meters above the ground.
 
 - **Make sure your battery can’t fall out.**
  - Use a Velcro Strap to hold it in place.
