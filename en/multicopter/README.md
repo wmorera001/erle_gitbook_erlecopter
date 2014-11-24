@@ -5,7 +5,7 @@ A multicopter is a mechanically simple aerial vehicle whose motion is controlled
 
 **MultiCopters are aerodynamically unstable** and absolutely **require an on-board computer** (aka flight controller) for stable flight.  As a result, they are “Fly by Wire” systems and if the computer isn’t working, you aren’t flying.  The flight controller combines data from small on-board MEMs gyroscopes, accelerometers (the same as those found in smart phones) to maintain an accurate estimate of it’s orientation and position.
 
-The quadcopter shown above is the simplest type of multicopter, with each motor/propeller spinning in the opposite direction from the two motors on either side of it (i.e. motors on opposite corners of the frame spin in the same direction).
+The quadcopter is the simplest type of multicopter, with each motor/propeller spinning in the opposite direction from the two motors on either side of it (i.e. motors on opposite corners of the frame spin in the same direction).
 
 A quad copter can control it’s roll and pitch rotation by speeding up two motors on one side and slowing down the other two.  So for example if the quad copter wanted to roll left it would speed up motors on the right side of the frame and slow down the two on the left.  Similarly if it wants to rotate forward it speeds up the back two motors and slows down the front two.
 
