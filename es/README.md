@@ -5,9 +5,7 @@
 
 ##Libro
 
-**In this GitBook..**
-
-![erlelogo](../img/Logo_erle.png)
+![erlelogo](http://erlerobotics.com/blog/wp-content/uploads/2014/10/erle_corporativo_5.0_72px_nobackground.png)
 
 ##Acerca de nosotros
 
